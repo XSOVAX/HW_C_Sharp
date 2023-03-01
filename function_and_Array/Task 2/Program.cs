@@ -8,14 +8,13 @@ int [] fill_random_array(int [] array, int min_value, int max_value){
     return array;
 }
 
-int [] print_array(int [] array){
+void print_array(int [] array){
     int size_array = array.Length;
     Console.Write($"[{array[0]}");
     for (int i = 1; i < size_array; i++){
         Console.Write($", {array[i]}");
     }
     Console.Write("]");
-    return array;
 }
 
 Console.Write("Введите размер массива >> ");
