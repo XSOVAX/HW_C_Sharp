@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\bin\Debug\net7.0\Task 41.exe
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\bin\Debug\net7.0\Task 41.deps.json
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\bin\Debug\net7.0\Task 41.runtimeconfig.json
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\bin\Debug\net7.0\Task 41.dll
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\bin\Debug\net7.0\Task 41.pdb
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.dll
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\refint\Task 41.dll
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.pdb
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\Task 41.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\C_sharp\HW_C_Sharp\lesson_6\Task 41\obj\Debug\net7.0\ref\Task 41.dll
