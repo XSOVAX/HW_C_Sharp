@@ -1,4 +1,34 @@
-﻿int[,] fill_random_array(int n, int m){
+﻿Skip to content
+Search or jump to…
+Pulls
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@XSOVAX 
+XSOVAX
+/
+HW_C_Sharp
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+More
+HW_C_Sharp/lesson 8/Task 1/Program.cs /
+
+Lenar Minikaev Solved 1 problem
+Latest commit 24dd9e7 1 hour ago
+ History
+ 0 contributors
+47 lines (42 sloc)  1.41 KB
+
+int[,] fill_random_array(int n, int m){
     int[,] new_array = new int[n, m];
     Random rnd = new Random();
     for (int i = 0; i < n; i++){
